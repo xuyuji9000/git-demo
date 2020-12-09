@@ -1,6 +1,16 @@
 # git-playground
 This is a git playground.
 
+## Command
+
+- Get object type with SHA1: 
+
+    `git cat-file -t SHA`
+
+- Get object content with SHA1: 
+
+    `git cat-file -p SHA`
+
 # Reference
 
 1. [Learn Git Branching](https://learngitbranching.js.org)
