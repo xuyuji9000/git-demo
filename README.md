@@ -17,3 +17,7 @@ This is a git playground.
 4. [Git Internals - How Git Works - Fear Not The SHA!](https://www.youtube.com/watch?v=P6jD966jzlk)
 
     > Video example introduce Git internals
+
+5. [Git Internals PDF](https://raw.githubusercontent.com/pluralsight/git-internals-pdf/master/drafts/peepcode-git.pdf)
+
+    > A more beautiful book introduces Git internals
