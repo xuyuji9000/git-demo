@@ -10,6 +10,10 @@ This is a git playground.
 - Get object content with SHA1: 
 
     `git cat-file -p SHA`
+    
+- Find all the *.git* directory 
+
+    `find . -type d -exec test -e '{}/.git' ';' -print -prune`
 
 # Reference
 
